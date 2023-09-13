@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "6e887a48671ed685",
+    "type": "split",
+    "children": [
+      {
+        "id": "38c4ba42eecfb6f5",
+        "type": "split",
+        "children": [
+          {
+            "id": "15bbfdf87a03e351",
+            "type": "tabs",
+            "dimension": 28.47826086956522,
+            "children": [
+              {
+                "id": "9b696adf0ab9f89c",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "348405a45ae8cb28",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Geomorphology.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fa0cd140a1e9ebeb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Geomorphology.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "53ed0a617ce4995b",
+            "type": "tabs",
+            "dimension": 71.52173913043478,
+            "children": [
+              {
+                "id": "a8a8b70de74f58ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "flashcard - soil.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "bcb05caa5eb6abbd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Soil.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a30d96045d5423da",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c66ec9020297613",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f079349393009aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c2e464df4c4e5193",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22e63f18751e6d75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e19a5d85051ed9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec322d3aeb4a61bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efb1fe1379a9bcf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Geomorphology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfdc9d841a70965c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Geomorphology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f8bc660c4ef6e21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7813e50dec6cee5f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Geomorphology.md"
+              }
+            }
+          },
+          {
+            "id": "59f6c72d09b0173f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "fa0cd140a1e9ebeb",
+  "lastOpenFiles": [
+    "flashcard - soil.md",
+    "Soil.md",
+    "Flashcards",
+    "Geomorphology.md",
+    "leach.md",
+    "Pasted image 20230913235211.png",
+    "Pasted image 20230913230754.png",
+    "Pasted image 20230913230738.png"
+  ]
+}
