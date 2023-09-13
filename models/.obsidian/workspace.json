@@ -58,7 +58,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "flashcard - soil.md",
+                    "file": "Geomorphology.md",
                     "mode": "source",
                     "source": false
                   }
@@ -76,8 +76,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -217,15 +216,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fa0cd140a1e9ebeb",
+  "active": "a8a8b70de74f58ff",
   "lastOpenFiles": [
-    "flashcard - soil.md",
+    "Images/Pasted image 20230913235211.png",
+    "Flashcards/flashcard - soil.md",
+    "Images",
+    "Geomorphology.md",
     "Soil.md",
     "Flashcards",
-    "Geomorphology.md",
     "leach.md",
-    "Pasted image 20230913235211.png",
-    "Pasted image 20230913230754.png",
-    "Pasted image 20230913230738.png"
+    "Images/Pasted image 20230913230754.png",
+    "Images/Pasted image 20230913230738.png"
   ]
 }

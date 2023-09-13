@@ -1,4 +1,11 @@
-Shear stresses (e.g. gravitational, molecular) act on earth material to produces varieties of **strain** or **failure** which we recognise as **weathering**, **erosion**, **transportation** and **deposition**.
+climatic swings between **glacials** and **interglacials**
+
+tensional, compressive, shear stresses -> normal, reverse, transform fault. stress from movement of tectonic plates, fault at divergent/convergent/transform plate boundaries. faults have no length scales. fault is a break in a rock formation (fracture) + a slip along it.
+
+earthquake
+- when stress overcomes **friction**, movement of slip along faults produces **seismic waves** that propagates through **earth's layers**
+- rupture, elastic rebound, aftershocks
+- earthquake characterization: location, magnitude (amount of energy released), intensity (destructive effects of ground shaking)
 
 forces that act on geomorphic materials:
 - gravitational forces
