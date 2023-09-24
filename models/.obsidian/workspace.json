@@ -4,95 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "38c4ba42eecfb6f5",
-        "type": "split",
+        "id": "15bbfdf87a03e351",
+        "type": "tabs",
         "children": [
           {
-            "id": "15bbfdf87a03e351",
-            "type": "tabs",
-            "dimension": 75,
-            "children": [
-              {
-                "id": "9b696adf0ab9f89c",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "348405a45ae8cb28",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geomorphology.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fa0cd140a1e9ebeb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geomorphology.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "5c46e5e884fe3644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geomorphology.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
           },
           {
-            "id": "53ed0a617ce4995b",
-            "type": "tabs",
-            "dimension": 25,
-            "children": [
-              {
-                "id": "a8a8b70de74f58ff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Geomorphology.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "bcb05caa5eb6abbd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Soil.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "09788a5fe665f20c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Digestive system.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "d09d31cad6b4d83c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
               }
-            ],
-            "currentTab": 2
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +177,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "fa0cd140a1e9ebeb",
+  "active": "8f079349393009aa",
   "lastOpenFiles": [
     "Digestive system.md",
     "Geomorphology.md",
+    "Images/Pasted image 20230924234954.png",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Potential energy.md",
+    "Images/Pasted image 20230924172408.png",
     "Soil.md",
     "Images/Pasted image 20230913235211.png",
     "Flashcards/flashcard - soil.md",

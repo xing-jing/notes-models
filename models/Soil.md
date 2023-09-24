@@ -1,3 +1,9 @@
+---
+aliases: 
+- soil
+---
+
+
 - processes that make up material (how it got here) and material interactions (once here)
 - form - outcome of material interactions - soil profile, grain size
 - other non-soil interactions with soil: mechanical behaviour
