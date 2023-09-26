@@ -4,81 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "15bbfdf87a03e351",
+        "id": "ffb0b1fd6e86563c",
         "type": "tabs",
         "children": [
           {
-            "id": "5c46e5e884fe3644",
+            "id": "d04876d6cac20dae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geomorphology.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "937cd38c3e8ee5e4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "61d8f1e9fbec1849",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "504a680ea644fedb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flashcards/flashcard - convective system.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7dfe750067f744c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flashcard - water cycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40cf63e65e2cc496",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "8a06b5095ca7059e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flashcard - rock cycle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geomorphology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geomorphology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Geomorphology.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,20 +158,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "5c46e5e884fe3644",
+  "active": "d04876d6cac20dae",
   "lastOpenFiles": [
-    "flashcard - rock cycle.md",
+    "Flashcards/flashcard - rock cycle.md",
+    "Flashcards/flashcard - water cycle.md",
+    "Flashcards/flashcard - convective system.md",
+    "Digestive system.md",
+    "Soil.md",
+    "Potential energy.md",
     "Geomorphology.md",
     "Images/Screenshot 2023-09-26 at 12.32.41 PM.png",
-    "flashcard - water cycle.md",
-    "Flashcards/flashcard - convective system.md",
     "Flashcards/flashcard - soil.md",
-    "Digestive system.md",
     "Images/Pasted image 20230924234954.png",
     "Untitled 1.md",
-    "Potential energy.md",
     "Images/Pasted image 20230924172408.png",
-    "Soil.md",
     "Images/Pasted image 20230913235211.png",
     "Images",
     "Flashcards",
