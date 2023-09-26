@@ -38,7 +38,7 @@ convective system (a Rayleigh-Benard system)
 - parts of system
 	- upper and lower boundaries with temperature difference
 	- fluid between upper and lower boundaries
-		- a **fluid parcel** <- subject of analysis, of whether convectoin occurs
+		- a **fluid parcel** <- subject of analysis, of whether convection occurs
 - interaction between parts of system
 	- upwards displacement (of **fluid parcel**): **buoyancy**
 	- dampening (of upwards displacement): **viscosity** and **thermal conductivity**
@@ -75,7 +75,7 @@ convection, applied to mantle convection[^3]
 		- **plates** have **plate boundaries** (convergent, divergent, transform)
 			- **convergent boundaries** are **subduction zones**, and cooler, denser plates sink into the **mantle**
 			- **divergent boundaries** are **mid-ocean ridges**, where **hot mantle material** undergo **partial melting** and **ascend** to drive **ridge volcanism** and form new **oceanic crust**
-			- **transform boundaries** are not directly associated with upward/downward convective currents, and are likely due to  non-linear rock **rheology** (the way a rock responds to stress through deformation or strain rate) to indirectly couple it to convective motion)
+			- **transform boundaries** are not directly associated with upward/downward convective currents, and are likely due to non-linear rock **rheology** (the way a rock responds to stress through deformation or strain rate) to indirectly couple it to convective motion)
 
 form/structure view
 - tectonic plates: cold thermal boundary layer of the convective mantle system (conductively cooled surface layer)
@@ -110,6 +110,7 @@ that is, climatic swings between **glacial** and **interglacial** periods
 definitions
 - convection: buoyancy-driven fluid flow
 - rayleigh number: a dimensionless number associated with convection, that can also characterise the fluid's flow regime; it describes the behavior of fluids when the mass density of the fluid is non-uniform
+- rheology: relationship between applied stress and resultant deformation
 
 ---
 
@@ -123,21 +124,36 @@ drainage system
 	- subsurface drainage system
 - geographic area of drainage system is called a **drainage basin**, also called **watershed** in USA, **catchment** in UK
 
+fundamental unit of landscape (quanta of geomorphic system): **drainage basin**
+- hillslopes deliver **water** and **sediment** to streams at their base; streams form dendritic network breaking landscape into drainage basins - **streams bound hillslopes**
+
 processes[^5]
 
 ![[Pasted image 20230924234954.png]]
 
 
+definitions
+- interception: temporary storage of water on the surface of plants/buildings before it reaches the surface
+- infiltration: movement of water **into** soil
+- throughflow: movement of water **through** soil
+- groundwater flow: movement of water above impermeable rock (bedrock)
+
+read in depth about the processes at https://www.nwrfc.noaa.gov/info/water_cycle/hydrology.html
+
 the water cycle and plate tectonic processes combine to create the **rock cycle**
 
----
+--- 
+
+![[Screenshot 2023-09-26 at 12.32.41 PM.png]]
 
 rock cycle
 - form, structure view
 	- rocks
 		- igneous: formed from **crystallization** of cooling magma
 		- sedimentary: formed from compaction and cementation of sediments, which are formed from erosion of rocks and deposition of sediment
-		- metamorphic: formed from heat and pressure on existing rock
+			- clastic
+			- 
+		- metamorphic: formed from heat and pressure on existing rock - **solid-state recrystallization** occurs
 - processes/interactions
 	- weathering, transport, deposition
 
@@ -150,18 +166,34 @@ rock cycle, step by step
 6. deep burial may convert sedimentary rocks into metamorphic rocks through heat and pressure.
 7. if uplifted, intruded or extruded, and exposed at the land surface, the loose sediments, consolidated sediments, metamorphic rocks may join in the next round of the rock cycle.
 
-how does weathering occur?
+compaction, definition
+- continued compression of buried sediments reduces **pore-spaces** and removes excess water
+
+cementation, definition
+- chemical change whereby individual grains are cemented together as minerals are **precipitated** out of **saturated solution** that is percolating as a matrix between individual sediments
+- note - also removal of water (saturation of solution precipitates minerals)
+
+lithification
+- either compaction, cementation or both
+
+types of weathering
 - chemical: depends on particle size (surface area exposed to chemical attack), permeability (rate at which water seeps into rock body - dictates internal surface area exposed to weathering)
 - mechanical: freeze-thaw cycles, wet-dry cycles, heating and cooling cycles
 
-how does transport occur?
+types of transport
 - sediment transport (essentially mechanical)
 	- mass movement (a lot of sediment moving en masse)
 	- fluid transport (sediment moving as individual grains dispersed in fluid)
 - solutional transport (essentially chemical)
+- fundamental causes: gravity (i.e. potential energy), fluid flow (i.e. energy-momentum relation)
 
-how does deposition occur?
-- when the transporting capacity of the fluid is insufficient to carry the solid sediment load, or where the chemical environment leads to the precipitation of the solute load, deposition of sediment occurs. sedimentary bodies occur where deposition outpaces erosion, and where chemical precipitation exceeds solutional loss.
+> Wind carries sediment in much the same way as water does - along the 'bed' or in suspension. But, as air is far less dense a fluid than water, for the same flow velocity it carries sediment of smaller grain size.
+
+deposition process
+- when the transporting capacity of the fluid is insufficient to carry the solid sediment load
+- or where the chemical environment leads to the precipitation of the solute load
+- deposition of sediment occurs
+- **sedimentary bodies** occur where deposition outpaces erosion, and where chemical precipitation exceeds solutional loss.
 
 definitions
 - rock cycle: the repeated creation and destruction of crustal materials - rocks and minerals
@@ -177,7 +209,7 @@ definitions
 - mass movement: bulk transfer of rock debris down slopes under influence of gravity
 - erosion: sum of all destructive processes by which weathering products are picked up and carried by transporting media
 
-weathering, transport and deposition are essential processes in the rock cycle. volcanic action, folding, faulting and uplift may all impart potential energy to the toposphere, creating the 'raw relief' on which geomorphic agents act to fashion the marvellously multifarious array of landforms found on the earth's surface - the physical toposphere. geomorphic (or exogenic) agents are wind, water, waves and ice, which act from outside or above the toposphere; these contrast with endogenic (tectonic and volcanic) agents, which act upon the toposphere from inside the planet.
+> Weathering, transport and deposition are essential processes in the rock cycle. Volcanic action, folding, faulting and uplift may all impart potential energy to the toposphere, creating the 'raw relief' on which geomorphic agents act to fashion the marvellously multifarious array of landforms found on the earth's surface - the physical toposphere. Geomorphic (or exogenic) agents are wind, water, waves and ice, which act from outside or above the toposphere; these contrast with endogenic (tectonic and volcanic) agents, which act upon the toposphere from inside the planet.
 
 
 ---
@@ -210,45 +242,17 @@ definitions
 
 ---
 
-fundamental unit of landscape (quanta of geomorphic system): **drainage basin**
-- hillslopes deliver water and sediment to streams at their base; streams form dendritic network breaking landscape into drainage basins - **streams bound hillslopes**
 
-process rates
-- rate of **motion** is set by material properties, in particular how a material responds to **stresses**
-	- relationship between applied stress and resultant deformation (strain) is called **rheology**
-
-systems:
-- 
-- rock cycle
-- plate tectonics
-
-macro level: layer of earth - crust, mantle, core; plates
-micro level: rock - igneous, metamorphic, sedimentary; rock - mixtures of crystalline forms of minerals (quartz (SiO2), feldspars (aluminium silicates with potassium, sodium, or calcium), clay minerals (complex aluminium silicates), ferromagnesian (iron, magnesium, calcium silicates))
+views, macro to micro level level
+- earth layers: crust, mantle, core; lithosphere, etc...
+- within earth layer: tectonic plate, plate boundary, faults, folds
+- within tectonic plate: rock - igneous, metamorphic, sedimentary
+- within rock: minerals - feldspars (aluminium silicates w/ potassium, sodium or calcium), clay minerals (complex aluminosilicates), ferromagnesian minerals (iron magnesium, calcium silicates)
 
 ---
 
 We live on a blue, white, brown, and green, nearly spherical, spinning, canted planet, 150 million kilometers from a medium-sized 4.5-billion-year-old star (Figure 1.0). One moon adorns the sky and tugs the ocean of its parent planet into a giant moving permanent wave. The moon was born early of a massive collision. That event set the planet spinning on an axis tilted with respect to the plane of the ecliptic, yielding daily and seasonal variations in radiation reaching the surface. The Earth is cooling down. Heat moved efficiently toward the surface by convection of the mantle is more slowly conducted through the outermost, coolest layer, which behaves as a solid on geological timescales, and which is broken into a small number of tectonic plates. The descent of old, cold, thickened plates from the surface also drives a creeping circulation of the mantle, at speeds of several cm per year, and establishes the relative motions of the plates. These motions crinkle the margins of the plates, generating belts of mountains, and drive volcanism that dots the topography with volcanoes where plates descend. But this topography is subject to attack. That the Earth is both blue and white reflects the fact that water can be found in all three phases at the surface of the planet – blue liquid water, white water vapor (clouds), and ice. This unique aspect of Earth is allowed by being the right distance from the Sun, having an atmosphere that contains gases capable of absorbing long-wavelength radiation, and being large enough to retain these gases. The atmosphere and ocean of the planet are in motion as well; unlike the mantle, motion of fluids of the hydrosphere and atmosphere is turbulent, at speeds up to many meters per second, driven by both the uneven solar heating of the planet and its spin. Water evaporated from lakes and oceans, and transpired by land plants, is transported by storms spawned within the atmosphere, and then precipitates as either rain or snow. It is the motion of these substances, rain immediately and snow more slowly, where it accumulates sufficiently to become a glacier, moving down slopes ultimately generated by crustal processes, that leads to the dissection and sculpting of the land surface. None of these phenomena are steady on geologic timescales. Wind, water, and ice erode, transport and deposit sediment in discrete episodes of activity. Movement of continents on the surface of the planet slowly changes the circulation of atmosphere and oceans. The celestial mechanics of our planet’s motion, which includes interactions with other planets in the solar system, leads to variations in the Earth’s orbit, which in turn drive variation in the delivery of energy to the Earth. In the last couple of million years, this has resulted in numerous major swings in the climate on the Earth, leading to the growth and demise of huge ice sheets on northern continents. These set the climatic context within which human civilization has arisen and have greatly influenced the landscapes with which we interact.
 
-
-
-forces that act on geomorphic materials:
-- gravitational forces
-- fluid forces
-- water pressure forces
-- expansion forces
-- global fluid movements
-- biological forces
-
-fluid forces: water flowing downhill under influence of its own weight. moving water uses only part of downslope force, and portion left over may carry material in flow or along water-ground contact. water carries dissolved material that travels as the same velocity as water.)
-
-expansion forces: heating and cooling cycles, freezing and thawing cycles, wetting and drying cycles
-
-global fluid movements: wind carries sediment in much the same way as water does - along the 'bed' or in suspension. but, as air is far less dense a fluid than water, for the same flow velocity it carries sediment of smaller grain size.
-
-deposition is the laying down of sediment by chemical, physical or biological means.
-
-deposition
-- when the transporting capacity of the fluid is insufficient to carry the solid sediment load, or where the chemical environment leads to the precipitation of the solute load, deposition of sediment occurs. sedimentary bodies occur where deposition outpaces erosion, and where chemical precipitation exceeds solutional loss.
 
 [^1]: [Mantle Convection and Plate Tectonics (article) | Khan Academy](https://www.khanacademy.org/partner-content/amnh/earthquakes-and-volcanoes/plate-tectonics/a/mantle-convection-and-plate-tectonics)
 [^2]: [Ocean 540: Convective Heat Transfer (washington.edu)](http://www2.ocean.washington.edu/oc540/lec02-8/)
