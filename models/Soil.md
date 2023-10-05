@@ -9,6 +9,7 @@ aliases:
 - other non-soil interactions with soil: mechanical behaviour
 - quibbles about soil definitions
 
+this is a descriptive model of the soil system (components, inter-soil and extra-soil interactions)
 
 ---
 general process view

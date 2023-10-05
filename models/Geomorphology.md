@@ -1,14 +1,37 @@
-structure:
+---
+aliases:
+- geomorphology
+---
+
+this is a descriptive model of the earth system. sub-systems: convective system of mantle, and the related, influenced plate tectonics system (mechanical stresses, rheology properties), water cycle system, rock cycle, atmospheric circulation - components labeled but interactions not really touched on, because this is a non-linear system
+
+contents:
+- [[Geomorphology#High level structure view of earth|high level structure view of earth]]
+- [[Geomorphology#Causes of earth surface processes|causes of earth surface processes]]
+- [[Geomorphology#Overview of link between plate tectonics and mantle convection|overview of link between plate tectonics and mantle convection]]
+- [[Geomorphology#Convective system (a Rayleigh-Benard system)|convective system]]
+- [[Geomorphology#Mantle convection and plate tectonics - processes and structure [ 3][ 8]|mantle convection and plate tectonics - processes and structure]]
+- [[Geomorphology#Plate tectonics - structure view|plate tectonics - structure view]]
+- [[Geomorphology#Earthquake - processes|earthquake - processes involved]]
+- [[Geomorphology#Water cycle|water cycle and drainage system]]
+- [[Geomorphology#Rock cycle|rock cycle]]
+- [[Geomorphology#atmospheric circulation[ 6]|atmospheric circulation]]
+
+---
+###### High level structure view of earth
+
+structure of earth
 - earth
 - atmosphere
 - boundary between earth and atmosphere
 	- this includes [[Soil|soil]]
 
-surface processes
+###### Causes of earth surface processes
 - fundamental causes, conceptually
 	- kinetic energy, [[Potential energy|potential energy]]
 	- heat (small scale motion) and topography (gravitational potential energy) drives mechanics (large scale motion)
-- causes, actual
+
+- causes, specific
 	- radiogenic heat and primordial heat
 		- **heat sources**
 			- radiogenic heat from **decay of radioactive isotopes** in **crust and mantle**
@@ -26,7 +49,7 @@ surface processes
 
 ---
 
-plate tectonics and mantle convection
+###### Overview of link between plate tectonics and mantle convection
 - mantle convection **drives** plate tectonics
 - plate tectonics is the **expression** of mantle convection
 
@@ -34,11 +57,12 @@ plate tectonics and mantle convection
 
 since there is a causal link, we consider primarily the cause i.e. the convective system
 
-convective system (a Rayleigh-Benard system)
+---
+###### Convective system (a Rayleigh-Benard system)
 - parts of system
 	- upper and lower boundaries with temperature difference
 	- fluid between upper and lower boundaries
-		- a **fluid parcel** <- subject of analysis, of whether convectoin occurs
+		- a **fluid parcel** <- subject of analysis, of whether convection occurs
 - interaction between parts of system
 	- upwards displacement (of **fluid parcel**): **buoyancy**
 	- dampening (of upwards displacement): **viscosity** and **thermal conductivity**
@@ -61,15 +85,13 @@ derivation:
 > R<sub>a</sub> still must exceed a certain value, called the critical Rayleigh number R<sub>ac</sub> for convection to occur
 > for R<sub>a</sub> < R<sub>ac</sub> the layer is stable and transports heat by conduction
 > for R<sub>a</sub> > R<sub>ac</sub> the layer will be convectively unstable and transport heat more rapidly via convection
-> although R<sub>ac</sub> varies depending on the mechanical nature of the horizontal boundaries (whether rigid or a free surface) it is typically of order 1000
+> although R<sub>ac</sub> varies depending on the mechanical nature of the horizontal boundaries (whether rigid or a free surface) it is typically of order 1000
 
-more on mantle convection - [ms3.dvi (yale.edu)](https://people.earth.yale.edu/sites/default/files/files/Bercovici/17_MantlConvection-ESEG2011-2_0.pdf)
-
-convection, applied to mantle convection[^3]
+###### Mantle convection and plate tectonics - processes and structure [^3][^8]
 - process/interaction view
 	- convective currents **deform** and **chemically modify** the top and bottom boundary layers
 		- hot upwelling mantle currents generate **surface uplifts** or induce **volcanic activity**
-		- downwelling currents (due to sinking mantle material) pulls the surface down from below
+		- downwelling currents (due to sinking mantle material) pull the surface down from below
 - form/structure view (terms of various components)
 	- the earth's **surface** is a **top cold thermal boundary layer**, and is subdivided into **tectonic plates**
 		- **plates** have **plate boundaries** (convergent, divergent, transform)
@@ -77,7 +99,7 @@ convection, applied to mantle convection[^3]
 			- **divergent boundaries** are **mid-ocean ridges**, where **hot mantle material** undergo **partial melting** and **ascend** to drive **ridge volcanism** and form new **oceanic crust**
 			- **transform boundaries** are not directly associated with upward/downward convective currents, and are likely due to  non-linear rock **rheology** (the way a rock responds to stress through deformation or strain rate) to indirectly couple it to convective motion)
 
-form/structure view
+###### Plate tectonics - structure view
 - tectonic plates: cold thermal boundary layer of the convective mantle system (conductively cooled surface layer)
 	- composition: differentiated mantle (crust, depleted lithosphere) on top, undifferentiated mantle at bottom
 - structure of tectonic plates themselves - consider its **rheology** (consider its response to stress, given that it's primarily subject to stress)
@@ -94,8 +116,8 @@ form/structure view
 			- types: **anticlines**, **synclines**
 		- crustal deformations (faults, folds) give rise to: **earthquakes**, **mountain ranges**
 
-earthquake
-- when stress overcomes **friction**, movement of slip along faults produces **seismic waves** that propagates through **earth's layers**
+###### Earthquake - processes
+- when **stress** overcomes **friction**, movement of slip along faults produces **seismic waves** that propagates through **earth's layers**
 - rupture, elastic rebound, aftershocks
 - earthquake characterization: location, magnitude (amount of energy released), intensity (destructive effects of ground shaking)
 
@@ -105,18 +127,18 @@ earthquake
 
 >The celestial mechanics of our planet’s motion, which includes interactions with other planets in the solar system, leads to variations in the Earth’s orbit, which in turn drive variation in the delivery of energy to the Earth. In the last couple of million years, this has resulted in numerous major swings in the climate on the Earth, leading to the growth and demise of huge ice sheets on northern continents.
 
-that is, climatic swings between **glacial** and **interglacial** periods
 
-definitions
+misc. definitions
 - convection: buoyancy-driven fluid flow
-- rayleigh number: a dimensionless number associated with convection, that can also characterise the fluid's flow regime; it describes the behavior of fluids when the mass density of the fluid is non-uniform
+- Rayleigh number: a dimensionless number associated with convection, that can also characterise the fluid's flow regime; it describes the behavior of fluids when the mass density of the fluid is **non-uniform**
+- rheology: relationship between **applied stress** and **resultant deformation** (strain)
 
 ---
 
-water cycle
+###### Water cycle
 - definition: circulation of meteoric water through the hydrosphere, atmosphere and upper parts of crust
 
-drainage system
+###### Drainage system
 - definition: area of land drained by a river and its tributaries
 - types:
 	- surface drainage system
@@ -130,9 +152,11 @@ processes[^5]
 
 the water cycle and plate tectonic processes combine to create the **rock cycle**
 
+#incomplete - requires definitions of interception, groundwater flow, etc. i thought i wrote this already ?
+
 ---
 
-rock cycle
+###### Rock cycle
 - form, structure view
 	- rocks
 		- igneous: formed from **crystallization** of cooling magma
@@ -150,17 +174,17 @@ rock cycle, step by step
 6. deep burial may convert sedimentary rocks into metamorphic rocks through heat and pressure.
 7. if uplifted, intruded or extruded, and exposed at the land surface, the loose sediments, consolidated sediments, metamorphic rocks may join in the next round of the rock cycle.
 
-how does weathering occur?
+**how does weathering occur?**
 - chemical: depends on particle size (surface area exposed to chemical attack), permeability (rate at which water seeps into rock body - dictates internal surface area exposed to weathering)
 - mechanical: freeze-thaw cycles, wet-dry cycles, heating and cooling cycles
 
-how does transport occur?
+**how does transport occur?**
 - sediment transport (essentially mechanical)
 	- mass movement (a lot of sediment moving en masse)
 	- fluid transport (sediment moving as individual grains dispersed in fluid)
 - solutional transport (essentially chemical)
 
-how does deposition occur?
+**how does deposition occur?**
 - when the transporting capacity of the fluid is insufficient to carry the solid sediment load, or where the chemical environment leads to the precipitation of the solute load, deposition of sediment occurs. sedimentary bodies occur where deposition outpaces erosion, and where chemical precipitation exceeds solutional loss.
 
 definitions
@@ -176,82 +200,88 @@ definitions
 		- saprolite has not been displaced or mobilized (i.e. material has not undergone strain)
 - mass movement: bulk transfer of rock debris down slopes under influence of gravity
 - erosion: sum of all destructive processes by which weathering products are picked up and carried by transporting media
+- deposition: the laying down of sediment by chemical, physical or biological means
+	- when the transporting capacity of the fluid is insufficient to carry the solid sediment load, or where the chemical environment leads to the precipitation of the solute load, deposition of sediment occurs
+	- **sedimentary bodies** occur where **deposition** outpaces **erosion**, and where **chemical precipitation** exceeds **solutional loss**
 
-weathering, transport and deposition are essential processes in the rock cycle. volcanic action, folding, faulting and uplift may all impart potential energy to the toposphere, creating the 'raw relief' on which geomorphic agents act to fashion the marvellously multifarious array of landforms found on the earth's surface - the physical toposphere. geomorphic (or exogenic) agents are wind, water, waves and ice, which act from outside or above the toposphere; these contrast with endogenic (tectonic and volcanic) agents, which act upon the toposphere from inside the planet.
+> weathering, transport and deposition are essential processes in the rock cycle. volcanic action, folding, faulting and uplift may all impart potential energy to the toposphere, creating the 'raw relief' on which geomorphic agents act to fashion the marvellously multifarious array of landforms found on the earth's surface - the physical toposphere. geomorphic (or exogenic) agents are wind, water, waves and ice, which act from outside or above the toposphere; these contrast with endogenic (tectonic and volcanic) agents, which act upon the toposphere from inside the planet.
 
 
 ---
 
-misc. - wind and atmospheric circulation
+###### atmospheric circulation[^6]
 
-wind: the motion of air
-motion - when there is a net force
-atmosphere - driven by variations in pressure
-because the Earth is spinning, the Coriolis effect causes the apparent trajectory of the air mass as seen by an observer on the Earth to bend to the right in the northern hemisphere and to the left in the southern hemisphere
+![[Pasted image 20231004160019.png]]
 
-wind system
-- major wind system
-- specific winds set up by local but persistent pressure fields: monsoons, sea breezes, katabatic winds
+atmospheric circulation: a large-scale **movement** of air by which the heat is transported on the **surface of the Earth**
+- driven by heat (fundamental. distal cause) and pressure differences (proximal cause)
+three cell model: model of how energy (from solar radiation) is moved around in the atmosphere
 
-Now we must come to grips with the fact that the fluid in motion is of low enough viscosity, is thin enough, and is moving fast enough, to be turbulent. A manifestation of turbulence is the instability of flows to disturbances, such that they evolve toward chaotic motion that includes many scales of eddies.
+![[Pasted image 20231004164309.png]]
 
-The forcing of the geomorphic system is therefore not well characterized by the mean flow of the atmosphere, the mean annual temperature, the mean annual precipitation, and the mean waves that might well be used to characterize the “climate” of a region. Rather, we must acknowledge the reality that these quantities are stochastic and can be only statistically described.
+Hadley cell - solar heating warms equatorial air which moves polewards; Polar cell - cold air at poles moves towards equatorial low-pressure zones, warming up at land or ocean
+
+thermally direct: refers to process by which potential energy is transferred to kinetic energy
+- e.g. in buoyant convection
+thermally indirect: refers to process by which kinetic energy is transferred to internal and/or potential energy
+- e.g. instability of shear flow in a stably stratified environment
+HP: high pressure
+LP: low pressure
+latitudinal angle: refers to psi
+
+![[Pasted image 20231004164351.png]]
+
+
+
+views of atmospheric circulation[^7]
+> The atmospheric circulation is a large-scale movement of air by which the heat is transported on the surface of the Earth. In the absence of rotation, there would be one cell spanning from the equator to the pole in each hemisphere. However, as the Earth spins, the Coriolis force deflects the flow, causing westerlies in the upper troposphere. The air moving poleward should conserve its angular momentum, meaning that the eastward flow becomes stronger until it reaches the jet stream latitude. This is where the fast-moving air breaks down into large eddies accompanied by a sinking motion towards the surface just equatorward of the jet stream, forming a subtropical ridge near 30° in each hemisphere. When it reaches the surface, the air spreads equatorward and poleward. The air rising at the equator and descending in the subtropics forms the Hadley cells.
+> 
+>The presence of two subsidence regions—in the subtropics and over the pole—has an important consequence for the Earth’s atmospheric circulation. In the Eulerian view, the mean meridional circulation has a three-cell structure: two thermally direct cells in each hemisphere—the Hadley cell, the strongest cell, and the Polar cell—and one thermally indirect cell in the mid-latitudes, called the Ferrel cell. The latter is weak, as the poleward transport of heat and moisture is predominantly due to mid-latitude eddies rather than the mean meridional circulation.
+>
+>Complementary to this Eulerian view, there is another, Lagrangian, framework to look at the general circulation where the zonal-mean mass-weighted meridional wind is vertically integrated between dry isentropic levels, i.e., levels of equal potential temperature, θ. In this mass-weighted isentropic framework, adiabatic motions within large-scale mid-latitude weather systems are predominantly along isentropic surfaces and the thermally indirect Ferrel cell is largely eradicated leading to a single-cell thermally direct atmospheric circulation in each hemisphere. Subsidence in the subtropics is still taking place, but the upward mass transport by the mid-latitude isentropic circulation is in mutual agreement with the subsidence in the downward Hadley cell branch in the subtropics. As baroclinic eddies are a part of the mass-weighted isentropic MMC, it becomes a powerful approach in the analysis of variability and changes in the global circulation.
+
+turbulence of atmospheric circulation
+- fundamental cause: fluid in motion has low viscosity and is moving fast enough to be turbulent
+- effect of turbulence: instability of flows to disturbances, such that they evolve towards chaotic motion that includes many scales of eddies
+- implication: quantities such as atmospheric flow, temperature, precipitation etc. are **stochastic** and can only be **statistically described**. we characterize (in a limited way): **mean annual temperature**, **mean annual precipitation**, **mean waves**...
+
+relationship of atmospheric circulation to rock cycle
+- wind carries sediment in much the same way as water does - along the 'bed' or in suspension. but, as air is far less dense a fluid than water, for the same flow velocity it carries sediment of smaller grain size
+-  water flows downhill under influence of its own weight, and moving water uses only part of downslope force, and portion left over may carry material in flow or along water-ground contact. water carries dissolved material that travels as the same velocity as water.
 
 definitions
 - weather: state of atmosphere at any given time at a specific place
 - climate: weather over a long period of time at a place or over a region
 	- i.e. statistical mean of weather
 - atmosphere: (top-down view) thin, gaseous envelope over the earth. (bottom-up) N<sub>2</sub>, O<sub>2</sub>, H<sub>2</sub>O, CO<sub>2</sub>, and small quantities of other gases
+- wind: the motion of air (motion indicating net force)
+	- specific winds
+		- cause: set up by local but persistent pressure fields
+		- e.g. monsoons, sea breezes, katabatic winds
 - cloud: visible aggregate of tiny water droplets or ice crystals suspended in air
 	- cloud formation: convection, topography, convergence of air, lifting along weather fronts
 
 > Since this cloud is supported by an updraft, the bottom of the cloud is relatively flat compared to the top.
-
 
 ---
 
 fundamental unit of landscape (quanta of geomorphic system): **drainage basin**
 - hillslopes deliver water and sediment to streams at their base; streams form dendritic network breaking landscape into drainage basins - **streams bound hillslopes**
 
-process rates
-- rate of **motion** is set by material properties, in particular how a material responds to **stresses**
-	- relationship between applied stress and resultant deformation (strain) is called **rheology**
-
-systems:
-- 
-- rock cycle
-- plate tectonics
-
 macro level: layer of earth - crust, mantle, core; plates
 micro level: rock - igneous, metamorphic, sedimentary; rock - mixtures of crystalline forms of minerals (quartz (SiO2), feldspars (aluminium silicates with potassium, sodium, or calcium), clay minerals (complex aluminium silicates), ferromagnesian (iron, magnesium, calcium silicates))
 
 ---
 
-We live on a blue, white, brown, and green, nearly spherical, spinning, canted planet, 150 million kilometers from a medium-sized 4.5-billion-year-old star (Figure 1.0). One moon adorns the sky and tugs the ocean of its parent planet into a giant moving permanent wave. The moon was born early of a massive collision. That event set the planet spinning on an axis tilted with respect to the plane of the ecliptic, yielding daily and seasonal variations in radiation reaching the surface. The Earth is cooling down. Heat moved efficiently toward the surface by convection of the mantle is more slowly conducted through the outermost, coolest layer, which behaves as a solid on geological timescales, and which is broken into a small number of tectonic plates. The descent of old, cold, thickened plates from the surface also drives a creeping circulation of the mantle, at speeds of several cm per year, and establishes the relative motions of the plates. These motions crinkle the margins of the plates, generating belts of mountains, and drive volcanism that dots the topography with volcanoes where plates descend. But this topography is subject to attack. That the Earth is both blue and white reflects the fact that water can be found in all three phases at the surface of the planet – blue liquid water, white water vapor (clouds), and ice. This unique aspect of Earth is allowed by being the right distance from the Sun, having an atmosphere that contains gases capable of absorbing long-wavelength radiation, and being large enough to retain these gases. The atmosphere and ocean of the planet are in motion as well; unlike the mantle, motion of fluids of the hydrosphere and atmosphere is turbulent, at speeds up to many meters per second, driven by both the uneven solar heating of the planet and its spin. Water evaporated from lakes and oceans, and transpired by land plants, is transported by storms spawned within the atmosphere, and then precipitates as either rain or snow. It is the motion of these substances, rain immediately and snow more slowly, where it accumulates sufficiently to become a glacier, moving down slopes ultimately generated by crustal processes, that leads to the dissection and sculpting of the land surface. None of these phenomena are steady on geologic timescales. Wind, water, and ice erode, transport and deposit sediment in discrete episodes of activity. Movement of continents on the surface of the planet slowly changes the circulation of atmosphere and oceans. The celestial mechanics of our planet’s motion, which includes interactions with other planets in the solar system, leads to variations in the Earth’s orbit, which in turn drive variation in the delivery of energy to the Earth. In the last couple of million years, this has resulted in numerous major swings in the climate on the Earth, leading to the growth and demise of huge ice sheets on northern continents. These set the climatic context within which human civilization has arisen and have greatly influenced the landscapes with which we interact.
+> We live on a blue, white, brown, and green, nearly spherical, spinning, canted planet, 150 million kilometers from a medium-sized 4.5-billion-year-old star. One moon adorns the sky and tugs the ocean of its parent planet into a giant moving permanent wave. The moon was born early of a massive collision. That event set the planet spinning on an axis tilted with respect to the plane of the ecliptic, yielding daily and seasonal variations in radiation reaching the surface. The Earth is cooling down. Heat moved efficiently toward the surface by convection of the mantle is more slowly conducted through the outermost, coolest layer, which behaves as a solid on geological timescales, and which is broken into a small number of tectonic plates. The descent of old, cold, thickened plates from the surface also drives a creeping circulation of the mantle, at speeds of several cm per year, and establishes the relative motions of the plates. These motions crinkle the margins of the plates, generating belts of mountains, and drive volcanism that dots the topography with volcanoes where plates descend. But this topography is subject to attack. That the Earth is both blue and white reflects the fact that water can be found in all three phases at the surface of the planet – blue liquid water, white water vapor (clouds), and ice. This unique aspect of Earth is allowed by being the right distance from the Sun, having an atmosphere that contains gases capable of absorbing long-wavelength radiation, and being large enough to retain these gases. The atmosphere and ocean of the planet are in motion as well; unlike the mantle, motion of fluids of the hydrosphere and atmosphere is turbulent, at speeds up to many meters per second, driven by both the uneven solar heating of the planet and its spin. Water evaporated from lakes and oceans, and transpired by land plants, is transported by storms spawned within the atmosphere, and then precipitates as either rain or snow. It is the motion of these substances, rain immediately and snow more slowly, where it accumulates sufficiently to become a glacier, moving down slopes ultimately generated by crustal processes, that leads to the dissection and sculpting of the land surface. None of these phenomena are steady on geologic timescales. Wind, water, and ice erode, transport and deposit sediment in discrete episodes of activity. Movement of continents on the surface of the planet slowly changes the circulation of atmosphere and oceans. The celestial mechanics of our planet’s motion, which includes interactions with other planets in the solar system, leads to variations in the Earth’s orbit, which in turn drive variation in the delivery of energy to the Earth. In the last couple of million years, this has resulted in numerous major swings in the climate on the Earth, leading to the growth and demise of huge ice sheets on northern continents. These set the climatic context within which human civilization has arisen and have greatly influenced the landscapes with which we interact.
 
 
-
-forces that act on geomorphic materials:
-- gravitational forces
-- fluid forces
-- water pressure forces
-- expansion forces
-- global fluid movements
-- biological forces
-
-fluid forces: water flowing downhill under influence of its own weight. moving water uses only part of downslope force, and portion left over may carry material in flow or along water-ground contact. water carries dissolved material that travels as the same velocity as water.)
-
-expansion forces: heating and cooling cycles, freezing and thawing cycles, wetting and drying cycles
-
-global fluid movements: wind carries sediment in much the same way as water does - along the 'bed' or in suspension. but, as air is far less dense a fluid than water, for the same flow velocity it carries sediment of smaller grain size.
-
-deposition is the laying down of sediment by chemical, physical or biological means.
-
-deposition
-- when the transporting capacity of the fluid is insufficient to carry the solid sediment load, or where the chemical environment leads to the precipitation of the solute load, deposition of sediment occurs. sedimentary bodies occur where deposition outpaces erosion, and where chemical precipitation exceeds solutional loss.
 
 [^1]: [Mantle Convection and Plate Tectonics (article) | Khan Academy](https://www.khanacademy.org/partner-content/amnh/earthquakes-and-volcanoes/plate-tectonics/a/mantle-convection-and-plate-tectonics)
 [^2]: [Ocean 540: Convective Heat Transfer (washington.edu)](http://www2.ocean.washington.edu/oc540/lec02-8/)
 [^3]: [Mantle Convection in Terrestrial Planets | Oxford Research Encyclopedia of Planetary Science](https://oxfordre.com/planetaryscience/display/10.1093/acrefore/9780190647926.001.0001/acrefore-9780190647926-e-109)
 [^4]: [A Simple Model of Plate Generation from Mantle Flow (yale.edu)](https://people.earth.yale.edu/sites/default/files/files/Bercovici/86_nnewt-GJI93.pdf)
 [^5]: [The drainage basin system - The drainage basin - CCEA - GCSE Geography Revision - CCEA - BBC Bitesize](https://www.bbc.co.uk/bitesize/guides/zxvw4qt/revision/2)
+[^6]: [ANRV273-EA34-21.tex (harvard.edu)](https://courses.seas.harvard.edu/climate/eli/Courses/EPS281r/Sources/Hadley-cell/more/Schneider-2006.pdf#:~:text=As%20an%20air%20parcel%20%EF%AC%82ows%20poleward%2C%20its%20distance,thus%20leads%20to%20surface%20westerlies%20in%20higher%20latitudes.)
+[^7]: [Atmospheric trends explained by changes in frequency of short-term circulation patterns | Communications Earth & Environment (nature.com)](https://www.nature.com/articles/s43247-023-00785-7)
+[^8]: [ms3.dvi (yale.edu)](https://people.earth.yale.edu/sites/default/files/files/Bercovici/17_MantlConvection-ESEG2011-2_0.pdf)

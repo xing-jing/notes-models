@@ -4,33 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "15bbfdf87a03e351",
+        "id": "d53483a7b7e2e06a",
         "type": "tabs",
         "children": [
           {
-            "id": "5c46e5e884fe3644",
+            "id": "4b2d8c8252376fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Geomorphology.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "103647f18362d2cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flashcard - geo - earth system.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d09d31cad6b4d83c",
+            "id": "76e53eed2fe4fe9d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3302d2b885024bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "flashcard - geo - mantle convection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "588751e2d2e6cc33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "flashcard - geo - water cycle.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geomorphology.md",
+                "file": "flashcard - geo - water cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geomorphology.md",
+                "file": "flashcard - geo - water cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geomorphology.md"
+                "file": "flashcard - geo - water cycle.md"
               }
             }
           },
@@ -177,22 +211,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8f079349393009aa",
+  "active": "588751e2d2e6cc33",
   "lastOpenFiles": [
-    "Digestive system.md",
     "Geomorphology.md",
+    "flashcard - geo - water cycle.md",
+    "Pharmacokinetics.md",
+    "flashcard - geo - mantle convection.md",
+    "flashcard - geo - earth system.md",
+    "Flashcards/flashcard - soil.md",
+    "Misc/Potential energy.md",
+    "Digestive system.md",
+    "Soil.md",
+    "Road naming convention.md",
+    "Images/Pasted image 20231005164250.png",
+    "Images/Pasted image 20231005152823.png",
+    "Earthquake - processes.md",
+    "Drainage system.md",
+    "Convective system.md",
+    "Misc",
+    "Images/Pasted image 20231004160019.png",
+    "Images/Pasted image 20231004164351.png",
+    "Images/Pasted image 20231004164309.png",
+    "Images/Pasted image 20230928165302.png",
     "Images/Pasted image 20230924234954.png",
     "Untitled 1.md",
-    "Untitled.md",
-    "Potential energy.md",
     "Images/Pasted image 20230924172408.png",
-    "Soil.md",
     "Images/Pasted image 20230913235211.png",
-    "Flashcards/flashcard - soil.md",
     "Images",
     "Flashcards",
     "leach.md",
-    "Images/Pasted image 20230913230754.png",
-    "Images/Pasted image 20230913230738.png"
+    "Images/Pasted image 20230913230754.png"
   ]
 }
