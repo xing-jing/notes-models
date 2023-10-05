@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "snippet"
   ],
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 17
 }

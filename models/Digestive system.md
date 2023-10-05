@@ -28,6 +28,7 @@ functions:
 - mixing and propulsion - the **process** of peristalsis (contraction, relaxation of smooth muscle - of alimentary canal)
 - digestion - mechanical, via peristalsis; chemical, via secreted enzymes
 - absorption - at different sites (alcohol @ stomach, nutrients @ small intestine, water and electrolytes @ large intestine)
+<<<<<<< HEAD
 - excretion of indigestible products - also called defecation
 
 >[!comment]
@@ -95,4 +96,12 @@ mouth - first site of chemical digestion for carbohydrates
 esophagus -> simply conduit, no digestion
 stomach -> release of protease. enzyme is called pepsin. stomach is first site of protein digestion. pepsin is released as pepsinogen by chief cells, -ogen means inactive form. parietal cells release hydrochloric acid, which activates pepsinogen into pepsin. 
 small intestine is first site of fat digestion
+=======
+- defecation - also called excretion
+
+>[!comments]
+>digestion within the digestive system, compared to soil infiltration, or lithification
+>commonalities - something passing through a system
+>differences - my first encounter with "state". rocks through rock cycle don't retain other matter/energy, but are simply transformed (atoms are rearranged - possible for there to be no extra atoms). water infiltrating soil can carry minerals down, but it's a simple, linear process: mostly removal of minerals/nutrients from upper layers to bottom layers. minerals/nutrients are quite unreactive. notably, the pancreas secretes alkaline bicarbonate to counteract stomach acid at the duodenum (first section of small intestine) i.e. state is created and intentionally reversed. parts of process are broken up as well: secretion of enzymes and digestion happen in multiple parts.
+>>>>>>> 20ef0f444dfc88f92f4ddace0fd91a23344e9a42
 

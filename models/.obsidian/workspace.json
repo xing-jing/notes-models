@@ -25,46 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcard - geo - earth system.md",
+                "file": "Flashcards/flashcard - geo - mantle convection.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "76e53eed2fe4fe9d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d3302d2b885024bb",
+            "id": "575f4fb1b22d63b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "flashcard - geo - mantle convection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "588751e2d2e6cc33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flashcard - geo - water cycle.md",
+                "file": "Flashcards/flashcard - geo - earth system.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flashcard - geo - water cycle.md",
+                "file": "Flashcards/flashcard - geo - earth system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flashcard - geo - water cycle.md",
+                "file": "Flashcards/flashcard - geo - earth system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flashcard - geo - water cycle.md"
+                "file": "Flashcards/flashcard - geo - earth system.md"
               }
             }
           },
@@ -211,14 +191,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "588751e2d2e6cc33",
+  "active": "575f4fb1b22d63b2",
   "lastOpenFiles": [
-    "Geomorphology.md",
-    "flashcard - geo - water cycle.md",
-    "Pharmacokinetics.md",
-    "flashcard - geo - mantle convection.md",
-    "flashcard - geo - earth system.md",
+    "Flashcards/flashcard - geo - mantle convection.md",
+    "Flashcards/flashcard - geo - rock cycle.md",
+    "Flashcards/flashcard - geo - water cycle.md",
     "Flashcards/flashcard - soil.md",
+    "Flashcards/flashcard - geo - earth system.md",
+    "Flashcards/flashcard - convective system.md",
+    "Flashcards/flashcard - rock cycle.md",
+    "Flashcards/flashcard - water cycle.md",
+    "Geomorphology.md",
+    "Images/Pasted image 20231006025057.png",
+    "Images/Screenshot 2023-09-26 at 12.32.41 PM.png",
+    "Pharmacokinetics.md",
     "Misc/Potential energy.md",
     "Digestive system.md",
     "Soil.md",
@@ -236,10 +222,8 @@
     "Images/Pasted image 20230924234954.png",
     "Untitled 1.md",
     "Images/Pasted image 20230924172408.png",
-    "Images/Pasted image 20230913235211.png",
     "Images",
     "Flashcards",
-    "leach.md",
-    "Images/Pasted image 20230913230754.png"
+    "leach.md"
   ]
 }

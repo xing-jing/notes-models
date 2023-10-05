@@ -97,7 +97,7 @@ derivation:
 		- **plates** have **plate boundaries** (convergent, divergent, transform)
 			- **convergent boundaries** are **subduction zones**, and cooler, denser plates sink into the **mantle**
 			- **divergent boundaries** are **mid-ocean ridges**, where **hot mantle material** undergo **partial melting** and **ascend** to drive **ridge volcanism** and form new **oceanic crust**
-			- **transform boundaries** are not directly associated with upward/downward convective currents, and are likely due to  non-linear rock **rheology** (the way a rock responds to stress through deformation or strain rate) to indirectly couple it to convective motion)
+			- **transform boundaries** are not directly associated with upward/downward convective currents, and are likely due to non-linear rock **rheology** (the way a rock responds to stress through deformation or strain rate) to indirectly couple it to convective motion)
 
 ###### Plate tectonics - structure view
 - tectonic plates: cold thermal boundary layer of the convective mantle system (conductively cooled surface layer)
@@ -145,25 +145,40 @@ misc. definitions
 	- subsurface drainage system
 - geographic area of drainage system is called a **drainage basin**, also called **watershed** in USA, **catchment** in UK
 
+fundamental unit of landscape (quanta of geomorphic system): **drainage basin**
+- hillslopes deliver **water** and **sediment** to streams at their base; streams form dendritic network breaking landscape into drainage basins - **streams bound hillslopes**
+
 processes[^5]
 
 ![[Pasted image 20230924234954.png]]
 
 
+definitions
+- interception: temporary storage of water on the surface of plants/buildings before it reaches the surface
+- infiltration: movement of water **into** soil
+- throughflow: movement of water **through** soil
+- groundwater flow: movement of water above impermeable rock (bedrock)
+
+![[Pasted image 20231006025057.png]]
+
+read in depth about the processes at https://www.nwrfc.noaa.gov/info/water_cycle/hydrology.html
+
 the water cycle and plate tectonic processes combine to create the **rock cycle**
 
-#incomplete - requires definitions of interception, groundwater flow, etc. i thought i wrote this already ?
+--- 
 
----
+![[Screenshot 2023-09-26 at 12.32.41 PM.png]]
 
 ###### Rock cycle
 - form, structure view
 	- rocks
 		- igneous: formed from **crystallization** of cooling magma
 		- sedimentary: formed from compaction and cementation of sediments, which are formed from erosion of rocks and deposition of sediment
-		- metamorphic: formed from heat and pressure on existing rock
+		- metamorphic: formed from heat and pressure on existing rock - **solid-state recrystallization** occurs
 - processes/interactions
 	- weathering, transport, deposition
+	- compaction, cementation, lithification
+	- melting, recrystallization
 
 rock cycle, step by step
 1. volcanoes, folding, faulting, uplift bring igneous and other rocks, water, and gases to the base of the atmosphere and hydrosphere.
@@ -174,18 +189,32 @@ rock cycle, step by step
 6. deep burial may convert sedimentary rocks into metamorphic rocks through heat and pressure.
 7. if uplifted, intruded or extruded, and exposed at the land surface, the loose sediments, consolidated sediments, metamorphic rocks may join in the next round of the rock cycle.
 
-**how does weathering occur?**
+compaction, definition
+- continued compression of buried sediments reduces **pore-spaces** and removes excess water
+
+cementation, definition
+- chemical change whereby individual grains are cemented together as minerals are **precipitated** out of **saturated solution** that is percolating as a matrix between individual sediments
+- note - also removal of water (saturation of solution precipitates minerals)
+
+lithification
+- either compaction, cementation or both
+
+types of weathering
 - chemical: depends on particle size (surface area exposed to chemical attack), permeability (rate at which water seeps into rock body - dictates internal surface area exposed to weathering)
 - mechanical: freeze-thaw cycles, wet-dry cycles, heating and cooling cycles
 
-**how does transport occur?**
+types of transport
 - sediment transport (essentially mechanical)
 	- mass movement (a lot of sediment moving en masse)
 	- fluid transport (sediment moving as individual grains dispersed in fluid)
 - solutional transport (essentially chemical)
+- fundamental causes: gravity (i.e. potential energy), fluid flow (i.e. energy-momentum relation)
 
-**how does deposition occur?**
-- when the transporting capacity of the fluid is insufficient to carry the solid sediment load, or where the chemical environment leads to the precipitation of the solute load, deposition of sediment occurs. sedimentary bodies occur where deposition outpaces erosion, and where chemical precipitation exceeds solutional loss.
+deposition process
+- when the transporting capacity of the fluid is insufficient to carry the solid sediment load
+- or where the chemical environment leads to the precipitation of the solute load
+- deposition of sediment occurs
+- **sedimentary bodies** occur where deposition outpaces erosion, and where chemical precipitation exceeds solutional loss.
 
 definitions
 - rock cycle: the repeated creation and destruction of crustal materials - rocks and minerals
@@ -204,7 +233,7 @@ definitions
 	- when the transporting capacity of the fluid is insufficient to carry the solid sediment load, or where the chemical environment leads to the precipitation of the solute load, deposition of sediment occurs
 	- **sedimentary bodies** occur where **deposition** outpaces **erosion**, and where **chemical precipitation** exceeds **solutional loss**
 
-> weathering, transport and deposition are essential processes in the rock cycle. volcanic action, folding, faulting and uplift may all impart potential energy to the toposphere, creating the 'raw relief' on which geomorphic agents act to fashion the marvellously multifarious array of landforms found on the earth's surface - the physical toposphere. geomorphic (or exogenic) agents are wind, water, waves and ice, which act from outside or above the toposphere; these contrast with endogenic (tectonic and volcanic) agents, which act upon the toposphere from inside the planet.
+> Weathering, transport and deposition are essential processes in the rock cycle. Volcanic action, folding, faulting and uplift may all impart potential energy to the toposphere, creating the 'raw relief' on which geomorphic agents act to fashion the marvellously multifarious array of landforms found on the earth's surface - the physical toposphere. Geomorphic (or exogenic) agents are wind, water, waves and ice, which act from outside or above the toposphere; these contrast with endogenic (tectonic and volcanic) agents, which act upon the toposphere from inside the planet.
 
 
 ---
@@ -265,11 +294,11 @@ definitions
 
 ---
 
-fundamental unit of landscape (quanta of geomorphic system): **drainage basin**
-- hillslopes deliver water and sediment to streams at their base; streams form dendritic network breaking landscape into drainage basins - **streams bound hillslopes**
-
-macro level: layer of earth - crust, mantle, core; plates
-micro level: rock - igneous, metamorphic, sedimentary; rock - mixtures of crystalline forms of minerals (quartz (SiO2), feldspars (aluminium silicates with potassium, sodium, or calcium), clay minerals (complex aluminium silicates), ferromagnesian (iron, magnesium, calcium silicates))
+views, macro to micro level level
+- earth layers: crust, mantle, core; lithosphere, etc...
+- within earth layer: tectonic plate, plate boundary, faults, folds
+- within tectonic plate: rock - igneous, metamorphic, sedimentary
+- within rock: minerals - feldspars (aluminium silicates w/ potassium, sodium or calcium), clay minerals (complex aluminosilicates), ferromagnesian minerals (iron magnesium, calcium silicates)
 
 ---
 
