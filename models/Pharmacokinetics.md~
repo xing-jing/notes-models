@@ -1,0 +1,94 @@
+pharmacokinetics: how a drug is absorbed, distributed through, metabolized and eliminated from body
+
+![[Pasted image 20231005152823.png]]
+
+![[Pasted image 20231005164250.png]]
+##### Phases of pharmacokinetics
+1. absorption (from site of administration to bloodstream)
+2. distribution (once in bloodstream, how it moves in out through tissue)
+3. metabolism (how drug is chemically altered - activated, inactivated)
+4. elimination (how drug moves out the body)
+
+four phases map to pharmacokinetic parameters: bioavailability, half-life, volume of distribution, clearance[^2]
+###### Absorption
+- transport (cellular biology view - assume capillary bed, one cell layer thick)
+	- passive - fat soluble drug (through phospholipid bilayer), or small, water soluble drug (through aquaporins)
+	- facilitated - slightly bigger water soluble drug
+	- active - bigger water soluble drug
+	- bulk (endocytosis) - big drug molecule; membrane has to absorb it
+- routes
+	- gastrointestinal tract
+	- skin (which is waterproof, so not suitable for water soluble drugs)
+	- subcutaneously (lots of fat)
+	- intramuscular (lots of water, suitable for water soluble drugs)
+	- IV (complete bioavailability)
+- primary measure: **bioavailability** (fraction of drug absorbed into systemic circulation from site of administration)
+
+###### Distribution
+- how well drug moves from blood into tissue; how widely drug moves to different compartments in tissue
+	- factors
+		- blood flow - brain, lungs, heart, liver, kidneys - increases speed of distribution
+		- properties of drug - fat soluble drugs move through membranes more easily
+		- interaction with blood proteins - blood has albumin; albumin is a good carrier for some drugs; warfarin locks onto plasma protein, and acts as blood thinner
+- primary measure: apparent **volume of distribution** (concentration of dose/concentration in plasma)
+
+###### Metabolism
+- the way a drug is chemically turned on or off
+- liver is the primary organ, metabolizes (first pass effect - reduction in bioavailability (absorption)) in 2 phases
+	- phase 1 - cytochrome p450 (enzyme) that makes drug less lipid soluble, more water soluble so when it goes to elimination (kidneys) it's easier to get rid of
+	- phase 2 - conjugation - water soluble group added to drug
+	- factors
+		- age (infants have immature livers)
+- primary measure: **half-life**
+
+###### Elimination
+- excretion: getting rid of drug while it's still active
+- elimination: chemically turning drug inactive
+- primary measure: **clearance rates**
+
+> Injecting a vaccine into the layer of subcutaneous fat, where poor vascularity may result in slow mobilisation and processing of antigen, is a cause of vaccine failure1—for example in hepatitis B,2 rabies, and influenza vaccines.3
+
+---
+examples 1: caffeine metabolism[^1]
+
+1. **absorption**
+- rapidly and completely absorbed
+- when consumed in beverages (e.g. coffee, tea, soft drinks), coffee is absorbed rapidly from the gastrointestinal tract and distributed throughout body water
+2. **metabolism**
+- appears to be no hepatic first-pass effect - liver does not appear to remove caffeine as it passes from gut to systemic circulation
+3. **distribution**
+- caffeine binds reversibly to plasma proteins
+- hydrophilic enough to distribute freely into intracellular tissue water
+- lipophilic enough to pass through all biological membranes - readily crosses blood brain barrier
+4. **elimination**
+- first-order kinetics
+
+physiological effects
+- cognitive performance
+	- inhibition of adenosine receptors through competitive binding -> central nervous system stimulation
+		- there are two main classes of adenosine receptors, A1 and A2 - caffeine and paraxanthine are nonselective antagonists at both
+- cardiostimulatory
+	- inhibition of phosphodiesterase enzymes in skeletal muscles and adipose tissues -> prevention of decomposition of cyclic AMP to AMP -> sustains cardiac muscle contraction (as cAMP sustains cardiac muscle contraction)
+
+<<<<<<< HEAD
+=======
+---
+- dose response, therapeutic index #incomplete
+>>>>>>> a6bd502789f368861100d6769644c2a243daae6e
+
+---
+example 2: SARS-CoV-2 mRNA vaccines
+[A guide to vaccinology: from basic principles to new developments | Nature Reviews Immunology](https://www.nature.com/articles/s41577-020-00479-7)
+
+example 3: antioxidants
+[Oxidative Stress and Antioxidant Defense - PMC (nih.gov)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3488923/)
+[The Pharmacokinetics of Vitamin C - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/31601028/)
+[Pharmacology and Pharmacokinetics of Vitamin E: Nanoformulations to Enhance Bioavailability - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/33324057/)
+[Carotenoids: biochemistry, pharmacology and treatment - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/27638711/)
+
+
+BCG vaccines
+[[Solved] After giving BCG, scar gets formed in: (testbook.com)](https://testbook.com/question-answer/after-giving-bcg-scar-gets-formed-in--619bc2fcf8a5841d0b5d5fc7#:~:text=BCG%20has%20bacteria%20that%20cause%20inflammation%20after%20administration.,small%20spot%20may%20appear%20at%20the%20injection%20site.)
+
+[^1]: [Pharmacology of Caffeine - Caffeine for the Sustainment of Mental Task Performance - NCBI Bookshelf (nih.gov)](https://www.ncbi.nlm.nih.gov/books/NBK223808/)
+[^2]: [Basic Principles of Pharmacokinetics - Leslie Z. Benet, Parnian Zia-Amirhosseini, 1995 (sagepub.com)](https://journals.sagepub.com/doi/10.1177/019262339502300203?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)
