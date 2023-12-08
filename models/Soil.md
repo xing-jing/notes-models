@@ -116,8 +116,9 @@ definitions of soil
 		- lichen-encrusted bare rock surface - soil?
 
 personal definition
-- rock capable of supporting vegetative cover
 - regolith + organic matter = soil
+	- implication: rock where **weathering** takes place, and has interactions with **ecosphere** (i.e. **water** cycle, **mineral** transport happening)
+- multiphase system on planetary surface
 
 ---
 definitions

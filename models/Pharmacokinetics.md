@@ -7,7 +7,7 @@ pharmacokinetics: how a drug is absorbed, distributed through, metabolized and e
 1. absorption (from site of administration to bloodstream)
 2. distribution (once in bloodstream, how it moves in out through tissue)
 3. metabolism (how drug is chemically altered - activated, inactivated)
-4. elimination (how drug moves out the body)
+4. elimination (how drug moves out of the body)
 
 four phases map to pharmacokinetic parameters: bioavailability, half-life, volume of distribution, clearance rates[^2]
 ###### Absorption
